@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: ejb52940.us-east-1
+      user: hsij
+      password: Akkshaya@17
+      role: NOVO_NORDISK_ALUNO
+      database: NORTHWIND
+      warehouse: NOVONORDISK
+      schema: DBT_AKKSHAYA
+      threads: 4
