@@ -4,10 +4,10 @@ default:
     dev:
       type: snowflake
       account: ejb52940.us-east-1
-      user: hsij
-      password: Akkshaya@17
+      user: HSIJ
+      password: xxx
       role: NOVO_NORDISK_STUDENT
       database: NOVO_NORDISK
-      warehouse: NOVONORDISK
+      warehouse: NOVO_NORDISK
       schema: DBT_AKKSHAYA
       threads: 4
