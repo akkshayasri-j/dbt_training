@@ -7,3 +7,5 @@ sources:
     tables:
       - name: _order_
       - name: customer
+      - name: product
+      - name: orderdetail
