@@ -35,5 +35,5 @@ clean-targets: # directories to be removed by `dbt clean`
 
 models:
   my_new_project:
-    novo_nordisk:
-      +schema: DBT_AKKSHAYA
+    -staging:
+      +materialized: table
