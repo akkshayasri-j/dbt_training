@@ -8,5 +8,5 @@ default:
       password: Akkshaya@17
       role: NOVO_NORDISK_STUDENT
       database: NOVO_NORDISK
-      schema: DBT_AKKSHAYA
+      schema: dbt_training
       threads: 4
